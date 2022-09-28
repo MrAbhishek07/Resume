@@ -1,16 +1,16 @@
 const Mongo = () => {
-    return (  
+    return (
         <div className="html">
             <h3>HTMLt Concepts</h3>
             <ul>
                 <li>
                     <h5>Good knowledge of CRUD operations.</h5>
-                    </li>
-                  
-                   
+                </li>
+
+
             </ul>
         </div>
     );
 }
- 
+
 export default Mongo;
