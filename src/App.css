@@ -130,7 +130,7 @@ th{
  
  }
  footer{
-/* height: 20px; */
+height: 15px;
   display: flex;
  flex-wrap: wrap;
  background: #316213;
