@@ -1,7 +1,7 @@
 const Js = () => {
     return (  
         <div className="react">
-            <h3>React Concepts</h3>
+            <h3>JAVASCRIPT Concepts</h3>
             <ul>
                 <li>
                     <h5>Good Understanding of Function.</h5>

@@ -130,7 +130,7 @@ th{
  
  }
  footer{
-
+height: 20px;
   display: flex;
  flex-wrap: wrap;
  background: #316213;
@@ -154,3 +154,4 @@ th{
 body{
   padding-top: 70px;
 }
+

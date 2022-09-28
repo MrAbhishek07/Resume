@@ -1,7 +1,7 @@
 const Html = () => {
     return (  
         <div className="html">
-            <h3>HTMLt Concepts</h3>
+            <h3>HTML Concepts</h3>
             <ul>
                 <li>
                     <h5>Very Strong Knowledge on Tables</h5>
